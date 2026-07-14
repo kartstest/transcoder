@@ -1,3 +1,0 @@
-rich>=13.0.0
-# No other external dependencies required.
-# FFmpeg and ffprobe must be installed on the system (already present on target Ubuntu).
